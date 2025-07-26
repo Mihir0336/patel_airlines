@@ -13,7 +13,6 @@ Welcome to Patel's Airline Reservation System! This is a simple, user-friendly a
 ## Requirements
 - Python 3.7 or higher (tested on Python 3.13)
 - [tkinter](https://docs.python.org/3/library/tkinter.html) (comes with most Python installations)
-- Other dependencies are listed in `requirements.txt` (for CLI, only standard libraries are used)
 
 ## How to Run
 
